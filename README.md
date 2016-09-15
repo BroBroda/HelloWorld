@@ -1,5 +1,5 @@
 # HelloWorld
-It's my first repository. Say hello
+It's my first repository. 
 
 Yo yo yo to everyone.
 I am gonna learn Swift language Stpe by step.
